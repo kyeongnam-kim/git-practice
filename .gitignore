@@ -1,0 +1,8 @@
+secrets.yaml
+*.c
+
+#http://git-scm.com/docs/gitignore
+
+#최상위 폴더의 file.c
+
+#https://www.youtube.com/watch?v=1I3hMwQU6GU  (35min)
