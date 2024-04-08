@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-a
-=======
-a
+
 dkkdkdkjfdlk
-dkkdkdkjfdlk
+dkkdkd
 >>>>>>> coupon
+push test
